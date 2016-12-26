@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BLETest</string>
+    <string name="scan_device_text">scan</string>
+</resources>
